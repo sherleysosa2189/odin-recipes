@@ -1,0 +1,31 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.title {
+    background-color: black;
+    color: aliceblue;
+    font-size: 32px;
+    font-weight: 900;
+
+}
+
+.name {
+    background-color: hsl(14, 100%, 50%);
+    color: black;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.two {
+    background-color: blueviolet;
+    color: black;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.rec-pic-one {
+    background-color: brown;
+    color: black;
+}
+

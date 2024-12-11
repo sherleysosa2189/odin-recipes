@@ -1,0 +1,74 @@
+body {
+    background-color: #e6b6c0;
+}
+.card-title {
+    color: black;
+    font-size: 60px;
+    font-weight: 900;
+    font-style:italic;
+    text-align: center;
+    width: 50%;
+    height: auto;
+    background-color: rgb(247, 206, 206);
+    padding-left: 500px;
+    padding-right: 500px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 10px;
+    border: inset 2px;
+}
+.card-description {
+    color: black;
+    font-size: 20px;
+    font-weight: 800;
+    font-style:oblique;
+    text-align: center;
+    width: 50%;
+    height: auto;
+    background-color: rgb(247, 206, 206);
+    margin-left: 500px;
+    border: outset;
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.card-ingredients {
+    color: black;
+    font-size: 30px;
+    font-weight: 800;
+    font-style: oblique;
+    text-align: left;
+    width: 50%;
+    height: auto;
+    background-color: rgb(247, 206, 206);
+    margin-bottom: -10px;
+}
+.card-list {
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+    font-style: oblique;
+    text-align: left;
+    width: 50%;
+    height: auto;
+}
+.card-steps {
+    color: black;
+    font-size: 30px;
+    font-weight: 800;
+    font-style: oblique;
+    text-align: left;
+    width: 50%;
+    height: auto;
+    background-color: rgb(247, 206, 206);
+    margin-bottom: -10px;
+}
+.card-listo {
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+    font-style: oblique;
+    text-align:justify;
+    height: auto;
+    margin-right: 50px;
+}

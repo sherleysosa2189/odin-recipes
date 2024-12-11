@@ -12,56 +12,70 @@ body {
     font-size: 60px;
     font-weight: 900;
     text-align: center;
-    width: 75%;
+    width: 50%;
     height: 900;
     background-color: burlywood;
-    margin: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 500px;
     border: solid 3px;
 }
 
 .name {
     box-sizing: content-box;
-    display: inline-block;
+    display: block;
     color: black;
-    font-size: 24px;
+    font-size: 40px;
+    font-style:oblique;
     font-weight: 500;
     text-align: left;
-    width: 75%;
+    width: 50%;
     height: auto;
     background-color: bisque;
-    margin: 10px;
-    padding-left: 10xp;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 500px;
+    text-align: center;
     border: solid 2px;
 }
 
 .image {
     box-sizing: content-box;
-    display: block;
+    display: inline-block;
     background-color: bisque;
-    width: 700px;
+    width: 50%;
     height: auto;
     background-color: bisque;
     margin-top: -10px;
     margin-bottom: 10px;
-    margin-right: 10px;
     margin-left: 10px;
+    padding-left: 30px;
+}
+
+.description {
+    box-sizing: content-box;
+    display: inline-block;
+    width: 50%;
+    height: auto;
+    font-size: 20px;
+    color:brown;
 }
 
 .button {
     box-sizing: content-box;
     display: block;
     padding: 5px;
-    background-color: rgb(165, 113, 113);
-    border: solid 2px;
     margin-left: 10px;
+    text-align: left;
+    font-size: 20px;
 }
-.description {
+.message {
     box-sizing: content-box;
     display: inline-block;
     color: aliceblue;
     font-size: 50px;
     text-align: center;
-    width: 500;
-    height: 600;
-    padding: 10px 200px;
+    width: 50%;
+    height: auto;
+    padding: 10px 500px;
 }
